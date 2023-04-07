@@ -2,6 +2,7 @@ import React from 'react';
 import MenuItems from './components/MenuItems';
 import SwitchToggle from './components/SwitchToggle';
 import Timer from './components/Timer';
+import Game from './components/Game';
 
 import './App.css';
 
@@ -10,7 +11,8 @@ const App = () => {
     <div className='main'>
       {/* <MenuItems /> */}
       {/* <SwitchToggle /> */}
-      <Timer />
+      {/* <Timer /> */}
+      <Game />
     </div>
   )
 }
