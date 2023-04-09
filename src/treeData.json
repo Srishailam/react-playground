@@ -1,0 +1,82 @@
+{
+  "name": "React - Playground",
+  "id": 1,
+  "isFolder": true,
+  "isRoot": true,
+  "children": [
+    {
+      "name": "Public",
+      "isFolder": true,
+      "id": 2,
+      "children": [
+        {
+          "name": "index.html",
+          "isFolder": false,
+          "children": [],
+          "id": 3
+        }
+      ]
+    },
+    {
+      "name": "src",
+      "isFolder": true,
+      "id": 4,
+      "children": [
+        {
+          "name": "Components",
+          "isFolder": true,
+          "children": [
+            {
+              "name": "Game.js",
+              "isFolder": false,
+              "children": [],
+              "id": 9
+            },
+            {
+              "name": "Header.js",
+              "isFolder": false,
+              "children": [],
+              "id": 10
+            },
+            {
+              "name": "Player.js",
+              "isFolder": false,
+              "children": [],
+              "id": 11
+            },
+            {
+              "name": "Score.js",
+              "isFolder": false,
+              "children": [],
+              "id": 12
+            }
+          ]
+        },
+        {
+          "name": "App.js",
+          "isFolder": false,
+          "children": [],
+          "id": 5
+        },
+        {
+          "name": "index.js",
+          "isFolder": false,
+          "children": [],
+          "id": 6
+        }
+      ]
+    },
+    {
+      "name": "package.json",
+      "isFolder": false,
+      "children": [],
+      "id": 7
+    },
+    {
+      "name": "package-lock.json",
+      "isFolder": false,
+      "children": [],
+      "id": 8
+    }
+  ]
+}
